@@ -1,5 +1,5 @@
 ### Hi there, I'm Amith Achari 👋
-- 🏫 I’m a Robotics Master's student at University of University of Illinois Urbana Champaign
+- 🏫 I’m a Mechanical Engineering Master's student at University of University of Illinois Urbana Champaign
 - 👀 I’m interested in Controls, Dynamics
 - 📫 Reach me at amithachari29@gmail.com
 
