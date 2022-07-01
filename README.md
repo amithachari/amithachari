@@ -8,5 +8,5 @@
 
 ![Amith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amithachari&show_icons=true&theme=radical)
 <!--
-**niteshjha08/niteshjha08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amithachari/amithachari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
