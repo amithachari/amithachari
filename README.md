@@ -2,7 +2,7 @@
 - 🏫 I’m a Mechanical Engineering Master's student at University of University of Illinois Urbana Champaign
 - 👀 I’m interested in Motion Planning, Controls, Dynamics
 - 📫 Reach me at amithachari29@gmail.com
-- Website: amithachari.github.io
+- Website: [amithachari.github.io](amithachari.github.io)
 
 
 <a href="https://www.linkedin.com/in/amithachari29/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
