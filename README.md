@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/64373075/179380636-f897619c-7905-46d7-8a1c-ca4572833035.png)
+
+
 ### Hi there, I'm Amith Achari 👋
 - 🏫 I’m a Mechanical Engineering Master's student at University of Illinois Urbana Champaign
 - 👀 I’m interested in Motion Planning, Controls, Dynamics
