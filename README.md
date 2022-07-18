@@ -1,5 +1,5 @@
 
-![Animation](https://user-images.githubusercontent.com/64373075/179445376-74dd06e3-94e6-4163-8eb0-1b63c229767f.gif)
+![Animation](https://user-images.githubusercontent.com/64373075/179445376-74dd06e3-94e6-4163-8eb0-1b63c229767f.gif) (https://amithachari.github.io)
 
 
 ### Hi there, I'm Amith Achari 👋
