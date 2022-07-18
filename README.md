@@ -1,6 +1,4 @@
-
-![Animation](https://user-images.githubusercontent.com/64373075/179445376-74dd06e3-94e6-4163-8eb0-1b63c229767f.gif) (https://amithachari.github.io)
-
+[<img src="https://github.com/amithachari/amithachari/blob/main/Animation.gif" alt="👋 Hi there! I'm Amith Achari | https://amithachari.github.io" title="👋 Hi there! I'm Amith Achari | https://amithachari.github.io"/>](https://amithachari.github.io/)
 
 ### Hi there, I'm Amith Achari 👋
 - 🏫 I’m a Mechanical Engineering Master's student at University of Illinois Urbana Champaign
