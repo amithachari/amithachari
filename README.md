@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/64373075/179380636-f897619c-7905-46d7-8a1c-ca4572833035.png)
+
+![Animation](https://user-images.githubusercontent.com/64373075/179445376-74dd06e3-94e6-4163-8eb0-1b63c229767f.gif)
 
 
 ### Hi there, I'm Amith Achari 👋
